@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406764010291",
+    "project_id": "fir-performance-92479",
+    "storage_bucket": "fir-performance-92479.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406764010291:android:7faf1b75964f54d83ddc46",
+        "android_client_info": {
+          "package_name": "com.example.firebase_performance_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg0mAOAgJ0GgIUc9rZ8HrZWd3zobBv3ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
